@@ -76,7 +76,7 @@ public class Main {
     }
 
     public static void changeMatrix(int pos, char[][] gameBord, int playerNum){
-        //ROW 1
+
         if(pos <= 3){
             if(pos == 1){
                 if(playerNum == 0)
@@ -98,7 +98,7 @@ public class Main {
             }
         }
 
-        //ROW 2
+
         if(pos > 3 && pos <= 6){
             if(pos == 4){
                 if(playerNum == 0)
@@ -120,7 +120,7 @@ public class Main {
             }
         }
 
-        //ROW 3
+
         if(pos > 6 && pos <= 9){
             if(pos == 7){
                 if(playerNum == 0)
