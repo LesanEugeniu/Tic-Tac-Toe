@@ -147,7 +147,6 @@ public class Main {
     public static boolean check(char[][] gameBord){
         boolean criteria1 = false;
         boolean criteria2 = false;
-        //boolean criteria3 = false;
         boolean criteria4 = false;
         boolean criteria5 = false;
 
