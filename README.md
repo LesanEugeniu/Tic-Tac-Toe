@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-***(Java Core only)***
+Java Core
